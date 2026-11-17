@@ -1,0 +1,651 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "username": "sarah_chen",
+      "name": "Sarah Chen",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Product Designer & Design Systems lead. Obsessed with micro-interactions, typography, and sleek modern interfaces. 🎨✨",
+      "location": "San Francisco, CA",
+      "website": "https://sarahchen.design",
+      "joined": "March 2024",
+      "isVerified": true,
+      "phone": "+15550198234",
+      "email": "sarah.chen@example.com",
+      "settings": {
+        "isPrivate": false,
+        "allowDms": true,
+        "showActivity": true,
+        "emailNotifs": true,
+        "likeNotifs": true,
+        "commentNotifs": true,
+        "followNotifs": true,
+        "theme": "light",
+        "highContrast": false,
+        "reducedMotion": false
+      }
+    },
+    {
+      "id": "u2",
+      "username": "alex_lens",
+      "name": "Alex Rivera",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Visual storyteller & street photographer. Chasing light, shadows, and architectural symmetry across the globe. 📷🏙️",
+      "location": "Tokyo / Brooklyn",
+      "website": "https://alexrivera.photo",
+      "joined": "January 2024",
+      "isVerified": true,
+      "phone": "+15550198888",
+      "email": "alex.rivera@example.com",
+      "settings": {
+        "isPrivate": false,
+        "allowDms": true,
+        "showActivity": true,
+        "emailNotifs": false,
+        "likeNotifs": true,
+        "commentNotifs": true,
+        "followNotifs": true,
+        "theme": "light",
+        "highContrast": false,
+        "reducedMotion": false
+      }
+    },
+    {
+      "id": "u3",
+      "username": "elena_ai",
+      "name": "Dr. Elena Rostova",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&auto=format&fit=crop&q=80",
+      "bio": "AI Researcher & Cognitive Systems Architect. Exploring multimodal reasoning, ethical intelligence, and human-agent synergy. 🧠🤖",
+      "location": "Zurich, Switzerland",
+      "website": "https://elena-ai.org",
+      "joined": "October 2023",
+      "isVerified": true,
+      "phone": "+15550199999",
+      "email": "elena.rostova@example.com",
+      "settings": {
+        "isPrivate": false,
+        "allowDms": true,
+        "showActivity": true,
+        "emailNotifs": true,
+        "likeNotifs": true,
+        "commentNotifs": true,
+        "followNotifs": true,
+        "theme": "dark",
+        "highContrast": false,
+        "reducedMotion": false
+      }
+    },
+    {
+      "id": "u4",
+      "username": "marcus_beats",
+      "name": "Marcus Vance",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Sound designer, music producer, synth hoarder. Building immersive sonic landscapes for games and film. 🎧🎹",
+      "location": "Berlin, Germany",
+      "website": "https://marcusvance.audio",
+      "joined": "May 2024",
+      "isVerified": false,
+      "phone": "+15550194455",
+      "email": "marcus.vance@example.com",
+      "settings": {
+        "isPrivate": false,
+        "allowDms": false,
+        "showActivity": false,
+        "emailNotifs": false,
+        "likeNotifs": true,
+        "commentNotifs": false,
+        "followNotifs": true,
+        "theme": "light",
+        "highContrast": false,
+        "reducedMotion": false
+      }
+    },
+    {
+      "id": "u5",
+      "username": "maya_lin",
+      "name": "Maya Lin",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Frontend engineer & creative technologist. Passionate about WebGL, accessible CSS, and fast animations. ⚡💻",
+      "location": "Seattle, WA",
+      "website": "https://mayalin.dev",
+      "joined": "February 2024",
+      "isVerified": true,
+      "phone": "+15550193322",
+      "email": "maya.lin@example.com",
+      "settings": {
+        "isPrivate": false,
+        "allowDms": true,
+        "showActivity": true,
+        "emailNotifs": true,
+        "likeNotifs": true,
+        "commentNotifs": true,
+        "followNotifs": true,
+        "theme": "light",
+        "highContrast": false,
+        "reducedMotion": false
+      }
+    },
+    {
+      "id": "u_1793087891731a5qi",
+      "username": "jordan_lee_993",
+      "name": "Jordan Lee",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+      "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Exploring the modern social network via Google Sign-In.",
+      "location": "Earth",
+      "website": "",
+      "joined": "October 2026",
+      "isVerified": false,
+      "phone": "",
+      "email": "new.creator@example.com",
+      "settings": {
+        "isPrivate": false,
+        "allowDms": true,
+        "showActivity": true,
+        "emailNotifs": true,
+        "likeNotifs": true,
+        "commentNotifs": true,
+        "followNotifs": true,
+        "theme": "light",
+        "highContrast": false,
+        "reducedMotion": false
+      }
+    }
+  ],
+  "followers": [
+    {
+      "followerId": "u1",
+      "followingId": "u3",
+      "createdAt": "2024-03-02T10:00:00Z"
+    },
+    {
+      "followerId": "u1",
+      "followingId": "u5",
+      "createdAt": "2024-03-03T10:00:00Z"
+    },
+    {
+      "followerId": "u2",
+      "followingId": "u1",
+      "createdAt": "2024-03-01T12:00:00Z"
+    },
+    {
+      "followerId": "u2",
+      "followingId": "u3",
+      "createdAt": "2024-03-02T14:00:00Z"
+    },
+    {
+      "followerId": "u3",
+      "followingId": "u1",
+      "createdAt": "2024-03-04T15:00:00Z"
+    },
+    {
+      "followerId": "u4",
+      "followingId": "u1",
+      "createdAt": "2024-03-05T09:00:00Z"
+    },
+    {
+      "followerId": "u5",
+      "followingId": "u1",
+      "createdAt": "2024-03-05T11:00:00Z"
+    },
+    {
+      "followerId": "u5",
+      "followingId": "u2",
+      "createdAt": "2024-03-06T13:00:00Z"
+    },
+    {
+      "followerId": "u1",
+      "followingId": "u2",
+      "createdAt": "2026-10-27T07:59:13.483Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "p_1793087699209f1vi",
+      "authorId": "u1",
+      "content": "Building an ultra-responsive social media experience with smooth micro-interactions! #DesignSystems #CleanCode",
+      "image": null,
+      "hashtags": [
+        "DesignSystems",
+        "CleanCode"
+      ],
+      "likes": [],
+      "bookmarks": [],
+      "audience": "public",
+      "createdAt": "2026-10-27T07:54:59.209Z"
+    },
+    {
+      "id": "p1",
+      "authorId": "u1",
+      "content": "Just finalized our new design system tokens for high-contrast accessibility! 🎨 The subtle balance between sleek aesthetics and universal usability is where real design magic happens. What do you prioritize first in your UI kit?",
+      "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=1000&auto=format&fit=crop&q=80",
+      "hashtags": [
+        "DesignSystems",
+        "Accessibility",
+        "UIUX",
+        "CleanDesign"
+      ],
+      "likes": [
+        "u2",
+        "u3",
+        "u4"
+      ],
+      "bookmarks": [
+        "u2"
+      ],
+      "audience": "public",
+      "createdAt": "2026-10-27T07:00:29.203Z"
+    },
+    {
+      "id": "p2",
+      "authorId": "u2",
+      "content": "Golden hour in Tokyo's Ginza district. Captured the interplay of neon reflections and warm sunset light just as the drizzle stopped. No heavy color grading, pure natural dynamic range. 📸✨",
+      "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=1000&auto=format&fit=crop&q=80",
+      "hashtags": [
+        "Tokyo",
+        "StreetPhotography",
+        "GoldenHour",
+        "VisualArt"
+      ],
+      "likes": [
+        "u1",
+        "u3",
+        "u4",
+        "u5"
+      ],
+      "bookmarks": [
+        "u1",
+        "u5"
+      ],
+      "audience": "public",
+      "createdAt": "2026-10-27T05:35:29.205Z"
+    },
+    {
+      "id": "p3",
+      "authorId": "u3",
+      "content": "Exciting breakthrough in self-supervised latent reasoning models! By separating factual grounding from speculative exploration, we reduce hallucination rates while keeping creative problem-solving flexible. Preprint dropping this week. 🔬🚀",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1000&auto=format&fit=crop&q=80",
+      "hashtags": [
+        "AIResearch",
+        "MachineLearning",
+        "FutureOfTech",
+        "DeepLearning"
+      ],
+      "likes": [
+        "u1",
+        "u2",
+        "u5"
+      ],
+      "bookmarks": [
+        "u1"
+      ],
+      "audience": "public",
+      "createdAt": "2026-10-27T01:55:29.205Z"
+    },
+    {
+      "id": "p4",
+      "authorId": "u5",
+      "content": "Modern CSS has made layout so joyful. Between container queries, subgrid, and `:has()`, responsive cards require zero hacky JavaScript resize listeners. Here's a clean snippet pattern that scales effortlessly on all viewports! 💻⚡",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1000&auto=format&fit=crop&q=80",
+      "hashtags": [
+        "WebDev",
+        "CSS",
+        "Frontend",
+        "CleanCode"
+      ],
+      "likes": [
+        "u1",
+        "u2",
+        "u3"
+      ],
+      "bookmarks": [
+        "u1",
+        "u2",
+        "u3"
+      ],
+      "audience": "public",
+      "createdAt": "2026-10-26T19:35:29.205Z"
+    },
+    {
+      "id": "p5",
+      "authorId": "u4",
+      "content": "Late night in the sound lab experimenting with analog modular filters and spatial reverberation. Generating ambient binaural soundscapes that feel like standing in an open redwood forest at dusk. 🌲🎧",
+      "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1000&auto=format&fit=crop&q=80",
+      "hashtags": [
+        "AudioProduction",
+        "ModularSynth",
+        "SoundDesign"
+      ],
+      "likes": [
+        "u1",
+        "u2"
+      ],
+      "bookmarks": [],
+      "audience": "public",
+      "createdAt": "2026-10-26T07:35:29.205Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "c1",
+      "postId": "p1",
+      "authorId": "u5",
+      "parentId": null,
+      "content": "Contrast ratios are non-negotiable! The APCA (Accessible Perceptual Contrast Algorithm) has been a game changer compared to old WCAG 2.1 math for dark mode readability.",
+      "likes": [
+        "u1",
+        "u3"
+      ],
+      "reactions": {
+        "🔥": [
+          "u1"
+        ],
+        "💡": [
+          "u3"
+        ]
+      },
+      "createdAt": "2026-10-27T07:10:29.205Z"
+    },
+    {
+      "id": "c2",
+      "postId": "p1",
+      "authorId": "u1",
+      "parentId": "c1",
+      "content": "@maya_lin 100% agreed! We tested APCA across both OLED and standard IPS monitors, and the luminance perception difference is dramatic.",
+      "likes": [
+        "u5"
+      ],
+      "reactions": {
+        "❤️": [
+          "u5"
+        ]
+      },
+      "createdAt": "2026-10-27T07:17:29.205Z"
+    },
+    {
+      "id": "c3",
+      "postId": "p1",
+      "authorId": "u2",
+      "parentId": null,
+      "content": "Love the micro-interaction preview! Subtle spring physics make everything feel tactile and premium.",
+      "likes": [
+        "u1"
+      ],
+      "reactions": {
+        "❤️": [
+          "u1"
+        ]
+      },
+      "createdAt": "2026-10-27T07:20:29.205Z"
+    },
+    {
+      "id": "c4",
+      "postId": "p2",
+      "authorId": "u1",
+      "parentId": null,
+      "content": "The atmospheric haze in this shot is breathtaking Alex! What focal length did you shoot this with?",
+      "likes": [
+        "u2"
+      ],
+      "reactions": {
+        "❤️": [
+          "u2"
+        ]
+      },
+      "createdAt": "2026-10-27T06:05:29.205Z"
+    },
+    {
+      "id": "c5",
+      "postId": "p2",
+      "authorId": "u2",
+      "parentId": "c4",
+      "content": "@sarah_chen Thank you Sarah! Shot on a 50mm f/1.2 prime wide open at ISO 800. The natural compression is magic for urban layers.",
+      "likes": [
+        "u1",
+        "u4"
+      ],
+      "reactions": {
+        "🙌": [
+          "u1"
+        ]
+      },
+      "createdAt": "2026-10-27T06:20:29.205Z"
+    },
+    {
+      "id": "c6",
+      "postId": "p3",
+      "authorId": "u1",
+      "parentId": null,
+      "content": "Crucial work Dr. Elena. Looking forward to reading the architectural breakdown on verifiable reasoning traces!",
+      "likes": [
+        "u3"
+      ],
+      "reactions": {
+        "👏": [
+          "u3"
+        ]
+      },
+      "createdAt": "2026-10-27T04:15:29.205Z"
+    },
+    {
+      "id": "c_1793087804936xevv",
+      "postId": "p1",
+      "authorId": "u3",
+      "parentId": "c3",
+      "content": "@alex_lens Spring physics really elevate the feel!",
+      "likes": [],
+      "reactions": {},
+      "createdAt": "2026-10-27T07:56:44.936Z"
+    },
+    {
+      "id": "c_1793088529865l4dj",
+      "postId": "p1",
+      "authorId": "u5",
+      "parentId": null,
+      "content": "Testing nested comment functionality",
+      "likes": [],
+      "reactions": {},
+      "createdAt": "2026-10-27T08:08:49.865Z"
+    },
+    {
+      "id": "c_17930885298800jjm",
+      "postId": "p1",
+      "authorId": "u1",
+      "parentId": "c_1793088529865l4dj",
+      "content": "Testing reply to comment",
+      "likes": [],
+      "reactions": {},
+      "createdAt": "2026-10-27T08:08:49.880Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n_1793088529880zn7h",
+      "recipientId": "u5",
+      "actorId": "u1",
+      "type": "reply",
+      "postId": "p1",
+      "commentId": "c_17930885298800jjm",
+      "message": "replied to your comment: \"Testing reply to comment\"",
+      "read": false,
+      "createdAt": "2026-10-27T08:08:49.880Z"
+    },
+    {
+      "id": "n_1793088529865gnef",
+      "recipientId": "u1",
+      "actorId": "u5",
+      "type": "comment",
+      "postId": "p1",
+      "commentId": "c_1793088529865l4dj",
+      "message": "commented: \"Testing nested comment functionality\"",
+      "read": true,
+      "createdAt": "2026-10-27T08:08:49.865Z"
+    },
+    {
+      "id": "n_1793087953483no4l",
+      "recipientId": "u2",
+      "actorId": "u1",
+      "type": "follow",
+      "postId": null,
+      "commentId": null,
+      "message": "started following you.",
+      "read": false,
+      "createdAt": "2026-10-27T07:59:13.483Z"
+    },
+    {
+      "id": "n_17930878049373h9i",
+      "recipientId": "u2",
+      "actorId": "u3",
+      "type": "reply",
+      "postId": "p1",
+      "commentId": "c_1793087804936xevv",
+      "message": "replied to your comment: \"@alex_lens Spring physics really ele...\"",
+      "read": false,
+      "createdAt": "2026-10-27T07:56:44.937Z"
+    },
+    {
+      "id": "n_1793087717543e4s3",
+      "recipientId": "u1",
+      "actorId": "u4",
+      "type": "like",
+      "postId": "p1",
+      "commentId": null,
+      "message": "liked your post: \"Just finalized our new design system...\"",
+      "read": true,
+      "createdAt": "2026-10-27T07:55:17.544Z"
+    },
+    {
+      "id": "n1",
+      "recipientId": "u1",
+      "actorId": "u2",
+      "type": "like",
+      "postId": "p1",
+      "commentId": null,
+      "message": "liked your post: \"Just finalized our new design system...\"",
+      "read": true,
+      "createdAt": "2026-10-27T07:15:29.205Z"
+    },
+    {
+      "id": "n2",
+      "recipientId": "u1",
+      "actorId": "u5",
+      "type": "comment",
+      "postId": "p1",
+      "commentId": "c1",
+      "message": "commented: \"Contrast ratios are non-negotiable!...\"",
+      "read": true,
+      "createdAt": "2026-10-27T07:10:29.205Z"
+    },
+    {
+      "id": "n3",
+      "recipientId": "u1",
+      "actorId": "u4",
+      "type": "follow",
+      "postId": null,
+      "commentId": null,
+      "message": "started following you.",
+      "read": true,
+      "createdAt": "2026-10-27T02:35:29.205Z"
+    },
+    {
+      "id": "n4",
+      "recipientId": "u1",
+      "actorId": "u3",
+      "type": "like",
+      "postId": "p1",
+      "commentId": null,
+      "message": "liked your post.",
+      "read": true,
+      "createdAt": "2026-10-26T21:35:29.205Z"
+    }
+  ],
+  "stories": [
+    {
+      "id": "s1",
+      "userId": "u1",
+      "user": "Sarah Chen",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80",
+      "media": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=800&auto=format&fit=crop&q=80",
+      "caption": "Polishing design system tokens 🎨",
+      "hasUnseen": true
+    },
+    {
+      "id": "s2",
+      "userId": "u2",
+      "user": "Alex Rivera",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+      "media": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800&auto=format&fit=crop&q=80",
+      "caption": "Night walks in Shibuya 🌧️",
+      "hasUnseen": true
+    },
+    {
+      "id": "s3",
+      "userId": "u3",
+      "user": "Dr. Elena",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+      "media": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop&q=80",
+      "caption": "Keynote presentation at AI Forum 🧠",
+      "hasUnseen": false
+    },
+    {
+      "id": "s4",
+      "userId": "u4",
+      "user": "Marcus Vance",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+      "media": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=800&auto=format&fit=crop&q=80",
+      "caption": "Analog modular patch in action 🎹",
+      "hasUnseen": false
+    },
+    {
+      "id": "s5",
+      "userId": "u5",
+      "user": "Maya Lin",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "media": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=800&auto=format&fit=crop&q=80",
+      "caption": "Experimenting with 3D canvas shaders ⚡",
+      "hasUnseen": true
+    }
+  ],
+  "trending": [
+    {
+      "tag": "CleanCode",
+      "count": 1,
+      "category": "Community · Trending"
+    },
+    {
+      "tag": "DesignSystems",
+      "count": 4821,
+      "category": "Design · Trending"
+    },
+    {
+      "tag": "Accessibility",
+      "count": 3190,
+      "category": "Tech · Trending"
+    },
+    {
+      "tag": "Tokyo",
+      "count": 8940,
+      "category": "Photography · Trending"
+    },
+    {
+      "tag": "AIResearch",
+      "count": 12500,
+      "category": "Science · Trending"
+    },
+    {
+      "tag": "WebDev",
+      "count": 6420,
+      "category": "Programming · Trending"
+    },
+    {
+      "tag": "CleanDesign",
+      "count": 2890,
+      "category": "UI/UX · Trending"
+    }
+  ]
+}
